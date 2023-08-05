@@ -1,0 +1,466 @@
+
+@media screen and (max-width: 390px){
+    .disp-none{
+        max-width: 100%;
+         padding: 0 16px; 
+         
+        margin: 0 auto;
+    }
+    
+}
+@media only screen and (max-width: 380px){
+  
+    .disp-none{
+        max-width: 100%;
+         padding: 0 16px; 
+         
+        margin: 0 auto;
+    }
+}
+@media only screen and (min-width: 430px) {
+    .noactive-mob {
+        display: none;
+    }
+    .disp-none{
+        max-width: 100%;
+         padding: 0 16px; 
+         
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 576px) {
+   
+    .disp-none{
+        max-width: 100%;
+         padding: 0 16px; 
+        margin: 0 auto;
+ overflow: hidden;
+    }
+    .rasm-glav {
+        height: auto;
+        max-width: 100%;
+        background-image: url("image/media-foto.jpg");
+        height: 900px;
+        background-size: 120%;
+    }
+
+    .menu {
+        display: none;
+    }
+
+
+
+    .logo-glav img {
+        width: 90px;
+    }
+
+    .center-page {
+      
+        display: block;
+   
+        font-size: 15px;
+    }
+
+    .center-page div {
+        padding: 40px 0px 0px 0px;
+    }
+
+    #tall {
+        font-size: 17px;
+
+    }
+
+    #bold {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    #play img {
+        width: 28px;
+    }
+
+    #play-menu {
+        margin-top: 20px;
+        color: gray;
+        justify-content: center;
+    }
+
+    #center-button {
+        font-size: 10px;
+        margin-top: 20px;
+        width: 35%;
+        height: 40px;
+    }
+
+    .page-3 {
+        display: block;
+        padding: 0 50px;
+       
+    }
+
+    #page-3-1 {
+        margin-top: -20;
+        width: 200px;
+        height: 75px;
+    }
+
+    #page-3-1 h4 {
+        font-size: 15px;
+    }
+
+    #page-3-2 {
+        width: 100%;
+        display: none;
+    }
+
+    #page-3-2 h4 {
+        color: white;
+        margin: 0;
+        font-size: 14px;
+    }
+
+    #page-3-2 p {
+        padding: 40px;
+        margin: 0 0px 70px 0px;
+        font-size: 16px;
+        color: white;
+    }
+
+    .page-foto-ustiga {
+        display: none;
+    }
+
+    .page-foto {
+        display: block;
+  
+    }
+    .page-foto div{
+        padding: 0 0 20px;
+    }
+   
+
+    .none-foto {
+        display: none;
+        margin-top: 0;
+    }
+
+    .none-foto-1 {
+        margin-top: -25px;
+    }
+
+    
+
+    .page-4 {
+        height: auto;
+        display: block;
+      
+        width: 100%;
+        margin: 0;
+    }
+    .page-4 div{
+        padding: 20px;
+        box-shadow: none;
+    }
+    .media-page-4 {
+        display: flex;
+        flex-wrap: wrap;
+        border: 1px solid grey;
+        height: auto;
+    }
+
+    .media-page-44 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .f4 img {
+        width: 50px;
+    }
+
+    #a01 {
+        font-size: 15px;
+      
+
+    }
+
+    #a011 {
+        font-size: 15px;
+        color: #34bfd5;
+        background-color:white ;
+        height: auto;
+       
+    }
+
+    #a02 {
+        font-size: 15px;
+    }
+
+    #a022 {
+        font-size: 15px;
+        color:white ;
+        background-color: #34bfd5;
+    }
+
+    .f4-none-web img {
+        display: block;
+        width: 50px;
+    }
+
+    .f4 img {
+        width: 50px;
+
+    }
+
+    .f4-4 {
+        display: none;
+    }
+
+    .kelnt-primium {
+        display: none;
+    }
+
+    .hr-menedjer {
+        display: none;
+    }
+
+    .footer {
+        
+        width: 100%;
+    
+        align-items: flex-start;
+    }
+
+    .footer span i {
+        margin-left: 30px;
+        font-size: 30px;
+    }
+
+    .footer span h3 {
+        font-size: 15px;
+    }
+
+    .footer span p {
+        padding: 5px;
+        font-size: 12px;
+    }
+
+    .buttom-menu {
+        height: auto;
+    }
+
+    #buttom-menu {
+        display: block;
+    }
+
+    #buttom-menu ul li {
+        padding: 10px;
+    }
+
+    #buttom-menu ul li a {
+        font-size: 12px;
+    }
+
+    .lunge {
+   
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .web-site {
+        font-size: 12px;
+        text-align: left;
+    }
+
+    .logo-glav {
+        float: left;
+    }
+
+    #none-lunge {
+        display: none;
+    }
+
+    #adress iframe {
+        height: 200px;
+    }
+
+    .center-info-txt {
+        display: none;
+    }
+
+    .video-1 video {
+        height: 100%;
+        margin-top: -150px;
+    }
+
+    .x p {
+        padding: 5px;
+    }
+
+    .mob-menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: flex-start;
+        color: white;
+        margin-left:200px;
+        font-size: 20px;
+       
+    }
+
+   
+
+    #mob-menu ul li a {
+        text-decoration: none;
+        color: white;
+        font-size: 18px;
+    }
+
+    #menu-bar {
+        display: none;
+    }
+
+    /* form */
+    .container1 {
+       margin: 0;
+     z-index: 5;
+        display: block;
+        height: 630px;
+        }
+
+        .form-image{
+            max-width: 100%;
+        }
+        .form > button{
+            width: 120%;
+            margin-left: 60px;
+        }
+    .form-image img {
+        width: 80%;
+        padding: 0;
+        margin: 25px;
+    }
+
+    .right {
+        display: none;
+    }
+
+    .form {
+        max-width: 50%;
+    }
+
+    .form-field {
+        width: 170%;
+        height: 40px;
+        margin: 20px;
+    }
+    .header > h4{
+        text-align: center;
+    }
+    .header > h2 {
+        font-size: 15px;
+        color: #4f46a5;
+        text-align: center;
+      }
+    
+
+    /* xizmatlar */
+
+    .xizmatlar {
+        box-shadow: 0 0 50px 10px black;
+    }
+
+    .xizmatlar h3 {
+        font-size: 22px;
+    }
+
+    .xz img {
+        width: 50px;
+    }
+
+    #xizmatlar-p p {
+        font-size: 15px;
+    }
+
+    .xizmat-menu h4 {
+        font-size: 15px;
+        padding: 10px;
+    }
+
+    #info-a p {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    /* vrac */
+    #vrac-rasm {
+        height: 50px;
+    }
+
+    #vrac-none {
+        display: block;
+        box-shadow: 0 0 50px 10px black;
+    }
+
+    #vrac-none-mob {
+        display: none;
+    }
+
+    .body-page {
+        display: block;
+    }
+
+    .body-page-1 {
+
+        width: 100%;
+    }
+
+    .body-page-1 img {
+        width: 100px;
+    }
+
+    .body-page-1 h1 {
+        font-size: 20px;
+    }
+
+    /* about */
+    .info2{
+        margin: 0 3%;
+    }
+    .info22 {
+        display: block;
+        position: relative;
+        box-shadow: 0 0 50px 10px;
+        height: auto;
+        
+    }
+    #info22 p{
+        margin: 10px 40px 0px 40px ;
+    }
+
+  
+
+    #about-none {
+        display: block;
+    }
+
+    #log1 img {
+        width: 100%;
+        height: auto;
+    }
+
+    @keyframes left {
+        0% {
+          opacity: 0;
+          width: 0;
+        }
+      
+        100% {
+          opacity: 1;
+          padding: 0;
+          width: 100%;
+        }
+      }
+      
+}
+
+
