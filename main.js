@@ -17,5 +17,11 @@ $(document).ready(function () {
           HAMBURGER MENU
       -----------------*/
 
+      let navs = $('.hamburger_menu_list a');
+      $(navs).on('click', function(){
+        $(".hamburger_menu, .overlay").removeClass("active");
+        $('body').removeClass('disable');
+
+      })
   });
   
