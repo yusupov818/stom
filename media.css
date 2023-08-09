@@ -40,6 +40,9 @@
     #seting{
     margin: 0;
   }
+ .page-class-4{
+    display: block;
+ }
     .lang_switch{
     display: none;
    }
